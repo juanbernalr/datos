@@ -1,9 +1,10 @@
-180
-5.64
-49.8
-55.5
-10000.4
-20.6
+270.00
+23.32
+79126.63
 Despejado
-7.00
-Débil/Llovizna (0.1 a 2.0 mm/h)
+Sin precipitación (0 mm/h)
+Calma oceánica
+2.00
+38.19
+22.50
+8.75
