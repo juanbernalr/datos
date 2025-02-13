@@ -1,10 +1,10 @@
-Dirección del viento : 270.00°
-Temperatura ambiental : 23.88 °C
+Dirección del viento : 225.00°
+Temperatura ambiental : 23.87 °C
 Presión atmosférica: 78850.92 Pa
-Nubosidad: Cubierto
+Nubosidad: Poco nuboso
 Precipitación: Sin precipitación (0 mm/h)
 Dirección del viento : 225.00°
-Temperatura ambiental : 23.88 °C
+Temperatura ambiental : 23.85 °C
 Presión atmosférica: 78850.92 Pa
-Nubosidad: Muy nuboso
+Nubosidad: Poco nuboso
 Precipitación: Sin precipitación (0 mm/h)
