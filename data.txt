@@ -1,4 +1,4 @@
-Dirección del viento : 225.00°
+Dirección del viento : 227.00°
 Rapidez del viento: 6.22 km/h
 Temperatura ambiental : 23.33 °C
 Humedad Reraltiva ambiental : 41.99 %
