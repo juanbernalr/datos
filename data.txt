@@ -3,7 +3,7 @@ Rapidez del viento: 6.22 km/h
 Temperatura ambiental : 20.33 °C
 Humedad Reraltiva ambiental : 41.99 %
 Presión atmosférica: 78941.43 Pa
-Temperatura del agua: 24.66 °C
+Temperatura del agua: 29.66 °C
 Nubosidad: Poco nuboso
 pH del agua: 8.77
 Precipitación: Fuerte/Chubasco (15.1 a 30.0 mm/h)
