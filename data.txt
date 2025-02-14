@@ -11,8 +11,8 @@ Precipitación: Fuerte/Chubasco (15.1 a 30.0 mm/h)
 =======
 Dirección del viento : 225.00°
 Rapidez del viento: 2.00 km/h
-Temperatura ambiental : 24.84 °C
-Humedad Reraltiva ambiental : 38.56 %
+Temperatura ambiental : 24.82 °C
+Humedad Reraltiva ambiental : 38.49 %
 Presión atmosférica: 79105.26 Pa
 Temperatura del agua: 24.66 °C
 Nubosidad: Despejado
