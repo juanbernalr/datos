@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dirección del viento : 227.00°
 Rapidez del viento: 6.72 km/h
 Temperatura ambiental : 20.33 °C
@@ -7,4 +8,15 @@ Temperatura del agua: 29.66 °C
 Nubosidad: Poco nuboso
 pH del agua: 8.00
 Precipitación: Fuerte/Chubasco (15.1 a 30.0 mm/h)
+=======
+Dirección del viento : 225.00°
+Rapidez del viento: 2.00 km/h
+Temperatura ambiental : 25.01 °C
+Humedad Reraltiva ambiental : 38.52 %
+Presión atmosférica: 79105.26 Pa
+Temperatura del agua: 24.66 °C
+Nubosidad: Despejado
+pH del agua: 8.75
+Precipitación: Sin precipitación (0 mm/h)
+>>>>>>> 6e14fd6 (Actualiza data.txt con nuevos datos)
 Clasificación de fenómeno: Calma oceánica
