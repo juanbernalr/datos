@@ -11,12 +11,12 @@ Precipitación: Fuerte/Chubasco (15.1 a 30.0 mm/h)
 =======
 Dirección del viento : 225.00°
 Rapidez del viento: 2.00 km/h
-Temperatura ambiental : 24.95 °C
-Humedad Reraltiva ambiental : 39.13 %
+Temperatura ambiental : 24.93 °C
+Humedad Reraltiva ambiental : 38.91 %
 Presión atmosférica: 79105.26 Pa
 Temperatura del agua: 24.66 °C
 Nubosidad: Despejado
-pH del agua: 8.77
+pH del agua: 8.72
 Precipitación: Sin precipitación (0 mm/h)
 >>>>>>> 6e14fd6 (Actualiza data.txt con nuevos datos)
 Clasificación de fenómeno: Calma oceánica
