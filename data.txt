@@ -1,1 +1,10 @@
-Hola
+Dirección del viento: 180°
+Rapidez del viento: 2.1 km/h
+Temperatura ambiental: 22.68 °C
+Humedad Reraltiva ambiental: 51 %
+Presión atmosférica: 75863.32 Pa
+Temperatura del agua: 24.33 °C
+Nubosidad: Poco nuboso
+pH del agua: 8.31
+Precipitación: Débil/Llovizna (0.1 a 2.0 mm/h)
+Clasificación de fenómeno: Calma oceánica 
